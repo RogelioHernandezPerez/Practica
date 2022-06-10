@@ -243,6 +243,19 @@ Si, porque es un sofware que permite hacer de forma automatica prácticas de neg
 
 # Ejercicio 7
 
+### Pasos que realice
+
+Paso 1: verificar la informacion del documento, validar el tipo de dato de los campos (aplicar un filtro en la primera fila para identificar los campos de tipo lista, campos de tipo texto; fechas numerico,).
+
+Paso 2: crear los campos faltantes para cada columna.
+
+Paso 3: limpiar el excel.
+
+Paso 4: exportar los datos en CSV-UTF-8 al launcher de dataloader para su validacion.
+
+Paso 5:
+
+
 ### Importación de cuentas
 ![Get](https://github.com/RogelioHernandezPerez/Practica/blob/main/cuentas%201.png)
 ### Importación de cuentas 2
@@ -252,3 +265,5 @@ https://github.com/RogelioHernandezPerez/Practica/blob/main/dataloader_succes_ac
 
 ### Oportunidades ID
 ![Get](https://github.com/RogelioHernandezPerez/Practica/blob/main/Oportunidades%20ID%20succes.png)
+### Archivo de oportunidades ID
+![Get](https://github.com/RogelioHernandezPerez/Practica/blob/main/opotunidades%20ID%20success.csv)
