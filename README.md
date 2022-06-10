@@ -83,7 +83,7 @@ Son la parte central de los HTTP requests y responses. Transmiten información a
 
 # Ejercicio 3
 
-## Get1
+## Get 1
 ![Get](https://github.com/RogelioHernandezPerez/Practica/blob/main/Get%201.png)
 
 ## Post
@@ -255,9 +255,9 @@ Paso 4: exportar los datos en CSV-UTF-8 al launcher de dataloader para su valida
 
 Paso 5: despues de confirmar que estan correctos se procede a integrar el ID a las oportunidades.
 
-Paso 6: con la herramienta de BUSCARV de excel se empareja todas aquellas cuentas las cuales tengan un ID
+Paso 6: con la herramienta de BUSCARV de excel se empareja todas aquellas cuentas las cuales tengan un ID.
 
-Paso 7: estas se exportan a dataloader tambien para la comprobacion de las mismas
+Paso 7: estas se exportan a dataloader tambien para la comprobacion de las mismas.
 
 ### Importación de cuentas
 ![Get](https://github.com/RogelioHernandezPerez/Practica/blob/main/cuentas%201.png)
