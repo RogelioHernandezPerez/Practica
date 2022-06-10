@@ -115,7 +115,7 @@ Perfil personal [Trailhead](https://trailblazer.me/id/rhernandezperez)
 |Article	|Documentos de información o procesos. |
 
 ## Diagrama UML
-![Diagrama UML](https://github.com/RogelioHernandezPerez/Practica/blob/main/Relacion%20de%20objetos.jpg)
+![Diagrama UML](https://github.com/RogelioHernandezPerez/Practica/blob/main/Untitled%20Diagram%20(1).drawio)
 
 # Ejercicio 6
 
