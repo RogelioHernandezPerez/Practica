@@ -19,8 +19,7 @@ Las siguientes preguntas están orientadas a la comprensión del protocolo HTTP.
 
 	3 ¿Qué es un request y un response en una comunicación HTTP?
    Request: es una petición que se hace desde el cliente. <br>
-Response: es la respuesta del servidor al cliente.
- Es un acceso que se ejecuta en un navegador al que se le hace una petición de un objeto web con el propósito de que se brinda una respuesta. 
+Response: el response se muestra en URL como la descripción de dicho recurso solicitado.
  
 	
          ¿Qué son los headers?
@@ -52,12 +51,15 @@ JSON:  Representan formas a base de objetos, un objeto es un conjunto desordenad
 XML: Es siempre descriptivo y se compara con un árbol porque cuenta con elementos secundarios.  <br>
 *JSON:*
 
-{
-“tipo” “class”
-“Nombre:” “persona”
-“Operaciones” (“Consultar”,” Insertar”,” Actualizar”)
-“Vistas” (“PDF”, “XML”, “cargo”)
-}
+{ 
+"llave1": "valor1",
+ "llave2": "valor2",
+ "llave3": "valor3",
+ "llave4": 7,
+ "llave5": null,
+ "favAmigos": ["Kolade", "Nithya", "Dammy", "Jack"],
+ "favJugadores": {"uno": "Kante", "dos": "Hazard", "tres": "Didier"}
+ }
 
 *XML:*
 
