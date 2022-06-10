@@ -269,4 +269,4 @@ https://github.com/RogelioHernandezPerez/Practica/blob/main/dataloader_succes_ac
 ### Oportunidades ID
 ![Get](https://github.com/RogelioHernandezPerez/Practica/blob/main/Oportunidades%20ID%20succes.png)
 ### Archivo de oportunidades ID
-![Get](https://github.com/RogelioHernandezPerez/Practica/blob/main/opotunidades%20ID%20success.csv)
+![Get](https://github.com/RogelioHernandezPerez/Practica/blob/main/opotunidades%20ID%20success.csv) 
