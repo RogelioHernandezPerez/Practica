@@ -95,8 +95,8 @@ En el primero me muestra los datos existentes en la base al momento de la consul
 
 
 # Ejercicio 4
-Perfil personal [Trailhead](https://trailblazer.me/id/keordonez)
-![GET](https://github.com/Kevinordonez09/Practica-KevinOrdonez/blob/main/Perfil%20peronal%20Trailhead.jpg)
+Perfil personal [Trailhead](https://trailblazer.me/id/rhernandezperez)
+![GET](https://github.com/RogelioHernandezPerez/Practica/blob/main/Perf%C3%ADl%20p%C3%BAblico.png)
 
 # Ejercicio 5
 |Objeto		| Definición 					| 
