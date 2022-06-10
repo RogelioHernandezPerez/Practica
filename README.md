@@ -89,7 +89,7 @@ Son la parte central de los HTTP requests y responses. Transmiten información a
 ## Post
 ![Get](https://github.com/RogelioHernandezPerez/Practica/blob/main/Post%201.png)
 
-## Get final
+## Get 2
 ![Get](https://github.com/RogelioHernandezPerez/Practica/blob/main/get%202.png)
 
 	¿Qué diferencias se observan?
