@@ -251,4 +251,4 @@ Si, porque es un sofware que permite hacer de forma automatica prácticas de neg
 https://github.com/RogelioHernandezPerez/Practica/blob/main/dataloader_succes_account.csv
 
 ### Oportunidades ID
-
+![Get](https://github.com/RogelioHernandezPerez/Practica/blob/main/Oportunidades%20ID%20succes.png)
