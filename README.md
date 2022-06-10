@@ -103,16 +103,16 @@ Perfil personal [Trailhead](https://trailblazer.me/id/rhernandezperez)
 # Ejercicio 5
 |Objeto		| Definición 					| 
 |---------------|-----------------------------------------------|
-|Lead           |Registro de posible cliente que está en proceso de evaluación.|			 
-|Account	|Registro de un cliente, este puede ser de una empresa o persona individual|
-|Contact	|Registro de la(s) persona(s) relacionada(s).|
-|Opportunity	|Es la negociación de una venta.|
-|Product	|Catálogo de productos o servicios que ofrece la empresa.|
-|PriceBook	|Lista de precios de los productos y servicios.|
-|Quote		|Es la cotización que se envía a los clientes.|
-|Asset		|Producto comprado o instalado por el cliente.|
-|Case		|Registro de una situación o problema de un cliente. Un caso se puede asociar a un lead, a una cuenta a un contacto y a una oportunidad.|
-|Article	|Documentos de información o procesos.   |
+|Lead           |Registro de posible cliente, el cual se encuentra en el proceso de evaluación. |			 
+|Account	|Registro de un cliente, este puede ser de una empresa o persona individual. |
+|Contact	|Es el registro que se lleva a cambio de las personas que mantienen relación a dicha cuenta. |
+|Opportunity	|El proceso de ventas. |
+|Product	|Catálogo de productos o servicios que ofrece la empresa. |
+|PriceBook	|Lista de precios de los productos y servicios. |
+|Quote		|Es la cotización que se envía a los clientes. |
+|Asset		|Producto comprado o instalado por el cliente. |
+|Case		|Registro de una situación o problema de un cliente. Un caso se puede asociar a un lead, a una cuenta a un contacto y a una oportunidad. |
+|Article	|Documentos de información o procesos. |
 
 ## Diagrama UML
 ![Diagrama UML](https://github.com/RogelioHernandezPerez/Practica/blob/main/Relacion%20de%20objetos.jpg)
