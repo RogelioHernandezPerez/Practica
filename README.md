@@ -2,9 +2,9 @@
 
 # Ejercicio 1
 ### Git Bash
-![Get](https://github.com/Kevinordonez09/Practica-KevinOrdonez/blob/main/Git_Bash.jpg)
+![Get](https://github.com/RogelioHernandezPerez/Practica/blob/main/git%20bash.png)
 ### Visual Code
-![Get](https://github.com/Kevinordonez09/Practica-KevinOrdonez/blob/main/VisualStudioCode.jpg)
+![Get](https://github.com/RogelioHernandezPerez/Practica/blob/main/vs%20code.png)
 # Ejercicio 2
 Las siguientes preguntas están orientadas a la comprensión del protocolo HTTP. Son agnósticas al lenguaje de programación, la idea es comprender los conceptos del estándar:
 
@@ -82,13 +82,13 @@ Son la parte central de los HTTP requests y responses. Transmiten información a
 # Ejercicio 3
 
 ## Get1
-![Get](https://github.com/Kevinordonez09/Practica-KevinOrdonez/blob/main/Get1.jpg)
+![Get](https://github.com/RogelioHernandezPerez/Practica/blob/main/Get%201.png)
 
 ## Post
-![Get](https://github.com/Kevinordonez09/Practica-KevinOrdonez/blob/main/Post.jpg)
+![Get](https://github.com/RogelioHernandezPerez/Practica/blob/main/Post%201.png)
 
 ## Get final
-![Get](https://github.com/Kevinordonez09/Practica-KevinOrdonez/blob/main/Get2.jpg)
+![Get](https://github.com/RogelioHernandezPerez/Practica/blob/main/get%202.png)
 
 	¿Qué diferencias se observan?
 En el primero me muestra los datos existentes en la base al momento de la consulta y en el segundo GET se agregan los datos insertados mediante el POST.
@@ -113,16 +113,9 @@ Perfil personal [Trailhead](https://trailblazer.me/id/keordonez)
 |Article	|Documentos de información o procesos.   |
 
 ## Diagrama UML
-![Diagrama UML](https://github.com/Kevinordonez09/Practica-KevinOrdonez/blob/main/DiagramaUML.jpg)
-	
-	
-# Ejercicio 6
-Código en apex de la clase IdProContacto     (https://github.com/Kevinordonez09/Practica-KevinOrdonez/blob/main/IdProcontacto.txt).<br>
-Código en apex TriggerIdProcontacto  (https://github.com/Kevinordonez09/Practica-KevinOrdonez/blob/main/TriggerIdProcontacto.txt).
-	
-	
+![Diagrama UML](https://github.com/RogelioHernandezPerez/Practica/blob/main/Relacion%20de%20objetos.jpg)
 
-# Ejercicio 7
+# Ejercicio 6
 
 ### Soluciones de Salesforce
 
@@ -245,3 +238,12 @@ Sistema de planificación de recursos empresariales que manejan negocios asociad
 	
 	¿Salesforce es un ERP?
 Si, porque es un sofware que permite hacer de forma automatica prácticas de negocio.
+
+# Ejercicio 7
+
+### Importación de cuentas
+![Get](https://github.com/RogelioHernandezPerez/Practica/blob/main/cuentas%201.png)
+### Importación de cuentas 2
+![Get](https://github.com/RogelioHernandezPerez/Practica/blob/main/cuentas%202.png)
+### Archivo de cuentas importadas
+https://github.com/RogelioHernandezPerez/Practica/blob/main/dataloader_succes_account.csv
