@@ -249,3 +249,6 @@ Si, porque es un sofware que permite hacer de forma automatica prácticas de neg
 ![Get](https://github.com/RogelioHernandezPerez/Practica/blob/main/cuentas%202.png)
 ### Archivo de cuentas importadas
 https://github.com/RogelioHernandezPerez/Practica/blob/main/dataloader_succes_account.csv
+
+### Oportunidades ID
+
