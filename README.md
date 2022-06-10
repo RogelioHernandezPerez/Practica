@@ -1,4 +1,4 @@
-# Practica-KevinOrdonez
+# Practica-Rogelio Hernández Pérez
 
 # Ejercicio 1
 ### Git Bash
